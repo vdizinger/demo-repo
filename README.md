@@ -1,5 +1,3 @@
 # demo-repo
-Demo repo for the "Reproducible Research Workshop"
 
-I just want to add a line here!
-Now I want to add another line!
+This is the demo repository created in the workshop [*Tools and Workflows for Reproducible Research in the Quantitative Social Sciences*](https://github.com/jobreu/reproducible-research-gesis-2021)
