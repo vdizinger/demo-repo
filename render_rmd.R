@@ -1,0 +1,1 @@
+rmarkdown::render('./src/Report1_Obeying_Curfew.Rmd', output_file = '../output/Report1_Obeying_Curfew.html')
